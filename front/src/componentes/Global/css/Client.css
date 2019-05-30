@@ -1,0 +1,26 @@
+.formc{
+    top:50%;
+    left:50%;
+    width:400px;
+    margin-left:500px;
+    height:400px;
+    margin-top:100px;
+    border:1px solid #000000;
+    padding:5px; 
+}
+
+.fmc{
+    width: 50%;
+    margin-left:340px;
+    
+}
+
+.fop{
+    width: 50%;
+    
+}
+
+.fmd{
+    width: 50%;
+    margin-left:340px;
+}
